@@ -7,6 +7,8 @@ namespace TechProj1
         static void Main(string[] args)
         {
             Console.WriteLine("Goodbye World!");
+
+            // Second change
         }
     }
 }
